@@ -1,0 +1,14 @@
+{
+  "name": "SteamVR",
+  "author": "Urki Mii",
+  "version": "v1.0.0",
+  "manifest_version": 1,
+  "music": false,
+  "ignore": [
+    "steam_at_mention.m4a",
+    "steam_chatroom_notification.m4a",
+    "ui_steam_smoother_friend_join.m4a",
+    "ui_steam_smoother_friend_online.m4a"
+  ],
+  "id": "28c07fe6-6ead-44b1-8c31-2372cfffcb60"
+}
